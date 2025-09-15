@@ -1,0 +1,44 @@
+{
+  "private": true,
+  "description": "https://github.com/mui/material-ui/blob/v7.3.2/docs/data/material/templates/dashboard/Dashboard.tsx",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.2",
+    "@mui/material": "^7.3.2",
+    "@mui/x-charts": "^8.11.2",
+    "@mui/x-data-grid": "^8.11.2",
+    "@mui/x-data-grid-pro": "^8.11.2",
+    "@mui/x-date-pickers": "^8.11.2",
+    "@mui/x-date-pickers-pro": "^8.11.2",
+    "@mui/x-tree-view": "^8.11.2",
+    "@react-spring/web": "^10.0.2",
+    "clsx": "^2.1.1",
+    "dayjs": "^1.11.18",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "@tailwindcss/postcss": "^4.0.8",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.19.0",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.18",
+    "globals": "^15.14.0",
+    "postcss": "^8.5.2",
+    "tailwindcss": "^4.0.8",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.22.0",
+    "vite": "^6.1.0",
+    "vite-plugin-svgr": "^4.3.0"
+  }
+}
