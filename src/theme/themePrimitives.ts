@@ -394,10 +394,11 @@ export const shape = {
   borderRadius: 8,
 };
 
-// @ts-ignore
+// @ts-expect-error data-screenshot is not defined in MUI types
 const defaultShadows: Shadows = [
   'none',
   'var(--template-palette-baseShadow)',
   ...defaultTheme.shadows.slice(2),
 ];
+
 export const shadows = defaultShadows;
